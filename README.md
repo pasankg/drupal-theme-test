@@ -23,4 +23,5 @@ Practicing Drupal 8.8+ Theme Building
   * https://github.com/mariohernandez/components-demo
   * https://www.mediacurrent.com/blog/integrating-components-drupal-8-part-1/
 - Drupal theming
+  * https://www.drupal.org/docs/user_guide/en/index.html
   * https://www.drupal.org/docs/theming-drupal
