@@ -13,6 +13,7 @@ Practicing Drupal 8.8+ Theme Building
   * https://github.com/mediacurrent/theme_generator_8
     * `nvm install 14.16.1 && node -v > .nvmrc`
     * `npm create yo mc-d8-theme`
+    * `gulp watch` to get the link to Browsersync
 
 
 ### Additional Resources
